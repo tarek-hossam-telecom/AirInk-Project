@@ -1,0 +1,5 @@
+{
+  "name": "EsharaTalk EG",
+  "description": "A professional sign language translation app for the deaf and hard-of-hearing community in Egypt and the Arab world.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
